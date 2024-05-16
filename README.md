@@ -7,7 +7,11 @@ React 공식문서 스터디
 목표 : React 공식 문서 완독하기
 
 1. 매주 React 공식 문서의 카테고리 2~3개 공부하기 (useImperativeHandle useInsertionEffect 제외)
+
 2. 매일 공부한 내용을 개인 블로그에 작성하여 dil에 블로그 링크 올리기
+
 3. presentation 폴더에 발표자료 올리기
+
 4. 매주 금요일 랜덤으로 발표자 정하여 발표
+
 5. 토의하여 모르는 부분 체크하고 정리하기
