@@ -1,7 +1,9 @@
 React 공식문서 스터디
 
 인원 : 수미, 현아, 샛별, 성빈, 유상
+
 기간 : 5/16-6/14
+
 목표 : React 공식 문서 완독하기
 
 1. 매주 React 공식 문서의 카테고리 2~3개 공부하기 (useImperativeHandle useInsertionEffect 제외)
