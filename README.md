@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=React&fontSize=90&fontColor=ffffff&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2B9CDB&height=250&section=header&text=React&fontSize=90&fontColor=ffffff&fontAlign=80)
 
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
