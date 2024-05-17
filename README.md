@@ -1,6 +1,8 @@
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 React 공식문서 스터디
 
-인원 : 수미, 현아, 샛별, 성빈, 유상
+인원 : 수미, 현아, 샛별, 성빈
 
 기간 : 5/16-6/14
 
@@ -17,7 +19,3 @@ React 공식문서 스터디
 5. 토의하여 모르는 부분 체크하고 정리하기
 
 
-
-
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
