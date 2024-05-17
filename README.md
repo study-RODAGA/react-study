@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2B9CDB&height=250&section=header&text=React&fontSize=90&fontColor=ffffff&fontAlign=80)
 
-
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=team&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=junia3&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=58A6FF&count_private=true" width=56% />
