@@ -5,8 +5,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-[![Eungyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungyeol41&count_private=true&custom_title=Dowajo's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
