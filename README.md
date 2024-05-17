@@ -20,6 +20,6 @@
 | |<li>매주 금요일 랜덤으로 발표자 정하여 발표</li>|
 | |<li>토의하여 모르는 부분 체크하고 정리하기</li>|
 
-| 수미사진 | <img src="./hyunahprofile.jpeg"  width="150" height="150"/> | 샛별사진 | 성빈사진 |
+| <img src="./sumi.jpg"  width="150" height="150"/> | <img src="./hyunahprofile.jpeg"  width="150" height="150"/> | 샛별사진 | 성빈사진 |
 | :---: | :---: | :---: | :---: |
 |https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|https://github.com/seongbin1013|
