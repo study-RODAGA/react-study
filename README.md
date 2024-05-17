@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400)
+![header](https://capsule-render.vercel.app/api?height=200&text=React%Study&fontAlign=center)
 
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
