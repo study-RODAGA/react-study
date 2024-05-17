@@ -14,7 +14,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssbmel&theme=react-dark&bg_color=ffffff&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-# React 공식문서 스터디
+# React 공식문서 스터디👨‍💻
 
 |인원 | 수미, 현아, 샛별, 성빈|
 | --- | :-- |
