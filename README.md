@@ -6,15 +6,15 @@
 [![Eungyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungyeol41&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#React 공식문서 스터디
+# React 공식문서 스터디
 
 ---
 
-##인원 : 수미, 현아, 샛별, 성빈
+## 인원 : 수미, 현아, 샛별, 성빈
 
-##기간 : 5/16-6/14
+## 기간 : 5/16-6/14
 
-##목표 : React 공식 문서 완독하기
+## 목표 : React 공식 문서 완독하기
 
 <li>매주 React 공식 문서의 카테고리 2~3개 공부하기 *italic*(useImperativeHandle useInsertionEffect 제외)</li>
 <li>매일 공부한 내용을 개인 블로그에 작성하여 dil에 블로그 링크 올리기</li>
