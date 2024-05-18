@@ -16,6 +16,8 @@
 
 # React 공식문서 스터디👨‍💻
 
+<div align="center">
+    
 |인원 | 박수미, 임현아, 서샛별, 홍성빈 (강석우튜터님🤣)|
 | --- | :-- |
 |기간 | 2024-05-16~2024-06-14|
@@ -25,6 +27,8 @@
 | |<li>presentation 폴더에 발표자료 올리기</li>|
 | |<li>매주 금요일 랜덤으로 발표자 정하여 발표</li>|
 | |<li>토의하여 모르는 부분 체크하고 정리하기</li>|
+
+</div>
 
 | <img src="./sumi.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> | <img src="./IMG_4598.jpeg"  width="150" height="150"/>|
 | :---: | :---: | :---: | :---: |
