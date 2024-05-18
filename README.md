@@ -14,7 +14,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssbmel&theme=react-dark&bg_color=ffffff&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-# React 공식문서 스터디👨‍💻
+<div align="center">
+    
+# 👨‍💻React 공식문서 스터디👨‍💻
+
+</div>
 
 <div align="center">
     
@@ -28,7 +32,15 @@
 | |<li>매주 금요일 랜덤으로 발표자 정하여 발표</li>|
 | |<li>토의하여 모르는 부분 체크하고 정리하기</li>|
 
+| 주차 | 기간 | 범위 | 발표자 |
+| --- | --- | --- | --- |
+| 1주차 | 5/16 ~ 5/24 | useState,useReducer,useContext |  |
+| 2주차 | 5/24 ~ 5/31 | useRef,useEffect,useLayoutEffect |  |
+| 3주차 | 5/31 ~ 6/7 | useMemo,useCallback |  |
+| 4주차 | 6/7 ~ 6/14 | useTransition,useDeferredValue |  |
+
 </div>
+
 
 | <img src="./sumi.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> | <img src="./IMG_4598.jpeg"  width="150" height="150"/>|
 | :---: | :---: | :---: | :---: |
