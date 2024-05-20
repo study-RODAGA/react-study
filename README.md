@@ -27,10 +27,11 @@
 
 | 주차 | 기간 | 범위 | 발표자 |
 | --- | --- | --- | --- |
-| 1주차 | 5/16 ~ 5/24 | useState,useReducer,useContext |  |
-| 2주차 | 5/24 ~ 5/31 | useRef,useEffect,useLayoutEffect |  |
-| 3주차 | 5/31 ~ 6/7 | useMemo,useCallback |  |
-| 4주차 | 6/7 ~ 6/14 | useTransition,useDeferredValue |  |
+| 1주차 | 5/16 ~ 5/24 | useState,useReducer |  |
+| 2주차 | 5/24 ~ 5/31 | useContext, useRef |  |
+| 3주차 | 5/31 ~ 6/7 | useEffect,useLayoutEffect |  |
+| 4주차 | 6/7 ~ 6/14 | useMemo,useCallback |  |
+| 5주차 | 6/14 ~ 6/21 | useTransition,useDeferredValue |  |
 
 </div>
 
