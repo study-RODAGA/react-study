@@ -19,7 +19,7 @@
 | --- | :-- |
 |기간 | 2024-05-16~2024-06-14|
 |목표 | React 공식 문서 완독하기|
-| 내용 |<li>매주 React 공식 문서의 카테고리 2~3개 공부하기 ~~(useImperativeHandle useInsertionEffect 제외)~~</li>
+| 내용 |<li>매주 React 공식 문서의 카테고리 2~3개 공부하기 ~~(useImperativeHandle useInsertionEffect제외/각 사용법까지만 공부)~~</li>
 | |<li>매일 공부한 내용을 개인 블로그에 작성하여 dil에 블로그 링크 올리기</li>|
 | |<li>presentation 폴더에 발표자료 올리기</li>|
 | |<li>매주 금요일 랜덤으로 발표자 정하여 발표</li>|
