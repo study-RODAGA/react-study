@@ -26,14 +26,14 @@
 | 주차 | 기간 | 범위 | 발표자 |
 | --- | --- | --- | --- |
 | 1주차 | 5/16 ~ 5/24 | useState,useReducer | 서샛별 |
-| 2주차 | 5/24 ~ 5/31 | useReducer,useContext,useRef|  |
-| 3주차 | 5/31 ~ 6/7 | useEffect,useLayoutEffect|  |
+| 2주차 | 5/24 ~ 5/31 | useReducer,useContext,useRef| 임현아 |
+| 3주차 | 5/31 ~ 6/7 | useEffect,useLayoutEffect| 서샛별 |
 | 4주차 | 6/7 ~ 6/14 | useMemo,useCallback |  |
 | 5주차 | 6/14 ~ 6/21 | useTransition,useDeferredValue |  |
 
 </div>
 
 
-| <img src="./sumi.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> | <img src="./IMG_4598.jpeg"  width="150" height="150"/>| <img src="./499에500.jpg"  width="150" height="150"/>|
+| <img src="./sumi.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> |
 | :---: | :---: | :---: | :---: | :---: |
 |https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|https://github.com/seongbin1013| https://github.com/Kyara0324 |
