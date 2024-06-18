@@ -33,7 +33,10 @@
 
 </div>
 
+<div align="center">
 
 | <img src="./sumi.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> |
-| :---: | :---: | :---: | :---: | :---: |
-|https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|https://github.com/seongbin1013| https://github.com/Kyara0324 |
+| :---: | :---: | :---: |
+|https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|
+
+</div>
