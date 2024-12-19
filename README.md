@@ -28,8 +28,8 @@
 | 1주차 | 5/16 ~ 5/24 | useState,useReducer | 서샛별 |
 | 2주차 | 5/24 ~ 5/31 | useReducer,useContext,useRef| 임현아 |
 | 3주차 | 5/31 ~ 6/7 | useEffect,useLayoutEffect| 서샛별 |
-| 4주차 | 6/7 ~ 6/14 | useMemo,useCallback |  |
-| 5주차 | 6/14 ~ 6/21 | useTransition,useDeferredValue |  |
+| 4주차 | 6/7 ~ 6/14 | useMemo,useCallback | 임현아 |
+| 5주차 | 6/14 ~ 6/21 | useTransition,useDeferredValue | 박수미 |
 
 </div>
 
